@@ -2,8 +2,7 @@
     "replace": false,
     "values": [
         "ad_astra:steel_cable",
-        "ad_astra:desh_cable",
-        
+        "ad_astra:desh_cable",        
         "refinedstorage:cable",
         "refinedstorage:1024k_fluid_storage_block",
         "refinedstorage:16k_storage_block",
@@ -431,7 +430,8 @@
         "mekanism:ultimate_logistical_transporter",
         "mekanism:ultimate_mechanical_pipe",
         "mekanism:ultimate_thermodynamic_conductor",
-        "mekanism:ultimate_universal_cable",          "computercraft:cable",
+        "mekanism:ultimate_universal_cable",          
+        "computercraft:cable",
         "computercraft:computer",    
         "computercraft:turtle",
         "computercraft:speaker",
@@ -441,13 +441,11 @@
         "computercraft:wireless_modem_normal",
         "computercraft:wireless_modem_advanced",
         "computercraft:wired_modem",
-
         "pipez:item_pipe",
         "pipez:fluid_pipe",
         "pipez:energy_pipe",
         "pipez:universal_pipe",
         "pipez:gas_pipe",
-
         "ae2:16k_crafting_storage",
         "ae2:1k_crafting_storage",
         "ae2:256k_crafting_storage",
@@ -489,7 +487,6 @@
         "ae2:spatial_pylon",
         "ae2:vibration_chamber",
         "ae2:wireless_access_point",
-
         "powah:ender_cell_basic",
         "powah:ender_cell_blazing",
         "powah:ender_cell_hardened",
@@ -568,11 +565,7 @@
         "powah:thermo_generator_niotic",
         "powah:thermo_generator_nitro",
         "powah:thermo_generator_spirited",
-        "powah:thermo_generator_starter"
-
-
-
-        
+        "powah:thermo_generator_starter"      
         
         
     ]
