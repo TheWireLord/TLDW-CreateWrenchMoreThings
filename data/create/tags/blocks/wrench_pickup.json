@@ -296,11 +296,6 @@
         "mekanism:ultimate_logistical_transporter",
         "mekanism:ultimate_mechanical_pipe",
         "mekanism:ultimate_thermodynamic_conductor",
-        "mekanism:ultimate_universal_cable",
-        "pipez:item_pipe",
-        "pipez:fluid_pipe",
-        "pipez:energy_pipe",
-        "pipez:universal_pipe",
-        "pipez:gas_pipe"
+        "mekanism:ultimate_universal_cable"
     ]
 }
